@@ -1,2 +1,2 @@
-web: node index.js
 web: python run.py
+web: node index.js
